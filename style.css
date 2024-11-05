@@ -1,0 +1,73 @@
+h1 {
+  font-size: 52px;
+}
+h2 {
+  font-size: 32px;
+}
+header {
+  background: rgba(250, 248, 248, 0.8);
+  text-align: center;
+  margin: 50px 50px;
+  padding: 15px;
+  border-radius: 10px;
+}
+div {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+.them {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.Come {
+  width: 500px;
+  border-radius: 20px;
+}
+img {
+  width: 300px;
+  border-radius: 5px;
+}
+p {
+  text-align: start;
+}
+ul {
+  text-align: start;
+  text-decoration: solid;
+}
+li {
+  font-family: "BhuTuka Expanded One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+button {
+  text-align: center;
+  padding: 20px 20px;
+  color: hsl(4, 100%, 74%);
+  margin: 50px auto 0 auto;
+  display: block;
+  font-size: 16px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+  width: 400px;
+  border: 10% solid #122d42;
+  border-radius: 90px;
+  transition: all ease-in-out;
+}
+
+button:hover {
+  background: #bee4d2;
+  color: #272044;
+  cursor: pointer;
+}
+
+body {
+}
