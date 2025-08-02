@@ -1,10 +1,3 @@
-// Dropdown Toggle for Mobile
-// === DARK MODE TOGGLE ===
-const toggleBtn = document.getElementById("toggle-dark");
-toggleBtn.addEventListener("click", () => {
-  document.body.classList.toggle("dark");
-});
-
 // === IMAGE SLIDER ===
 const slides = document.querySelector(".slides");
 const images = document.querySelectorAll(".slides img");
